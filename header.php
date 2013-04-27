@@ -23,7 +23,7 @@
     <div class="row">
         <div class="span5 pull-left">
             <div class="logo pull-left">
-                <img src="<?php echo get_template_directory_uri(); ?>/images/keocko.png">
+                <a href="<?php echo get_site_url(); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/keocko.png"></a>
             </div>
         </div>
         <div class="span6 offset1 pull-right margintop30">
