@@ -129,13 +129,14 @@ body {
 -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
-.marketing .span4 {
+.marketing .span3 {
     text-align: center;
 }
-.marketing h2 {
+.marketing h3 {
     font-weight: normal;
+    border-bottom: solid 1px red;
 }
-.marketing .span4 p {
+.marketing .span3 p {
     margin-left: 10px;
     margin-right: 10px;
 }
@@ -169,6 +170,16 @@ body {
     font-weight: 300;
     line-height: 1;
     letter-spacing: -1px;
+}
+
+/* FOOTER CSS
+-------------------------------------------------- */
+footer {
+    border-top: 1px red solid;
+}
+
+footer p {
+    padding-top: 10px;
 }
 
 
