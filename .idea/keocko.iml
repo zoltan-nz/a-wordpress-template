@@ -7,18 +7,18 @@
     <orderEntry type="module-library">
       <library name="PHP">
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../../../wp-admin/maint" />
-          <root url="file://$MODULE_DIR$/../../../wp-admin/includes" />
-          <root url="file://$MODULE_DIR$/../../../wp-admin/js" />
-          <root url="file://$MODULE_DIR$/../../../wp-admin/user" />
-          <root url="file://$MODULE_DIR$/../../../wp-admin/network" />
+          <root url="file:///home/wp-admin/maint" />
+          <root url="file:///home/wp-admin/includes" />
+          <root url="file:///home/wp-admin/js" />
+          <root url="file:///home/wp-admin/user" />
+          <root url="file:///home/wp-admin/network" />
         </CLASSES>
         <SOURCES>
-          <root url="file://$MODULE_DIR$/../../../wp-admin/maint" />
-          <root url="file://$MODULE_DIR$/../../../wp-admin/includes" />
-          <root url="file://$MODULE_DIR$/../../../wp-admin/js" />
-          <root url="file://$MODULE_DIR$/../../../wp-admin/user" />
-          <root url="file://$MODULE_DIR$/../../../wp-admin/network" />
+          <root url="file:///home/wp-admin/maint" />
+          <root url="file:///home/wp-admin/includes" />
+          <root url="file:///home/wp-admin/js" />
+          <root url="file:///home/wp-admin/user" />
+          <root url="file:///home/wp-admin/network" />
         </SOURCES>
       </library>
     </orderEntry>
